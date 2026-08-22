@@ -32,11 +32,12 @@ IMG_PARRAFO_3 = os.path.join(IMG_DIR, "parrafo3.jpg")   # Ilustración final / a
 # Textos de los 3 párrafos del cuento
 PARRAFOS = {
     1: ("El hijo de rana, Rinrín renacuajo, salió esta mañana muy tieso y muy majo, "
-        "con pantalón corto, corbata a la moda, sombrero encintado y chupa de boda."),
-    2: ("A poco llegaron, y avanza ratón, estírase el cuello, coge el aldabón, "
+        "con pantalón corto, corbata a la moda, sombrero encintado y chupa de boda."
+        "-¡Muchacho, no salgas!- le grita mamá pero él hace un gesto y orondo se va."),
+    2: ("Halló en el camino, a un ratón vecino y le dijo: ¡amigo!"),
+    3: ("-Venga usted conmigo, visitemos juntos a doña ratona y habrá francachela y habrá comilona."
+        "A poco llegaron, y avanza ratón, estírase el cuello, coge el aldabón,
         "da dos o tres golpes, preguntan: ¿quién es? -Yo, doña ratona, beso a usted los pies."),
-    3: ("Y en tanto que el pillo consume la jarra, mandó la señora traer la guitarra, "
-        "y a Renacuajo le pide que cante versitos alegres, tonada elegante."),
 }
 
 # ---------------------------------------------------------------------------
