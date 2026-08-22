@@ -25,9 +25,9 @@ except FileExistsError:
 
 # Carpeta donde debes poner las 3 imágenes del cuento (creala en tu repo)
 IMG_DIR = "imagenes"
-IMG_PARRAFO_1 = os.path.join(IMG_DIR, "parrafo1.png")   # Rinrín con sombrero, corbata, etc.
-IMG_PARRAFO_2 = os.path.join(IMG_DIR, "parrafo2.png")   # Escena con el ratón (para encontrarlo)
-IMG_PARRAFO_3 = os.path.join(IMG_DIR, "parrafo3.png")   # Ilustración final / abuela ratona
+IMG_PARRAFO_1 = os.path.join(IMG_DIR, "parrafo1.jpg")   # Rinrín con sombrero, corbata, etc.
+IMG_PARRAFO_2 = os.path.join(IMG_DIR, "parrafo2.jpg")   # Escena con el ratón (para encontrarlo)
+IMG_PARRAFO_3 = os.path.join(IMG_DIR, "parrafo3.jpg")   # Ilustración final / abuela ratona
 
 # Textos de los 3 párrafos del cuento
 PARRAFOS = {
