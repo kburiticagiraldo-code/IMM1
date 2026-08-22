@@ -152,7 +152,6 @@ elif st.session_state.pagina == 2:
         CAJA_RATON = (80, 260, 300, 660)
         st.caption("Haz clic sobre el ratón en la imagen.")
         coords = streamlit_image_coordinates(IMG_PARRAFO_2, key="click_raton")
-        {"x":194,"y":362,"width":1280,"height":720,"unix_time":1787440187120}
         if coords is not None:
             x, y = coords["x"], coords["y"]
             if CAJA_RATON[0] <= x <= CAJA_RATON[2] and CAJA_RATON[1] <= y <= CAJA_RATON[3]:
