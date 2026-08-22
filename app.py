@@ -149,7 +149,7 @@ elif st.session_state.pagina == 2:
 
     if TIENE_COORDENADAS and os.path.exists(IMG_PARRAFO_2):
         # --- Ajusta este cuadro (x1, y1, x2, y2) a la posición real del ratón en tu imagen ---
-        CAJA_RATON = (194, 362, 1280, 720)
+        CAJA_RATON = (80, 260, 300, 660)
         st.caption("Haz clic sobre el ratón en la imagen.")
         coords = streamlit_image_coordinates(IMG_PARRAFO_2, key="click_raton")
         {"x":194,"y":362,"width":1280,"height":720,"unix_time":1787440187120}
