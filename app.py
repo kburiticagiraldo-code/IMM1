@@ -36,7 +36,7 @@ PARRAFOS = {
         "-¡Muchacho, no salgas!- le grita mamá pero él hace un gesto y orondo se va."),
     2: ("Halló en el camino, a un ratón vecino y le dijo: ¡amigo!"),
     3: ("-Venga usted conmigo, visitemos juntos a doña ratona y habrá francachela y habrá comilona."
-        "A poco llegaron, y avanza ratón, estírase el cuello, coge el aldabón,
+        "A poco llegaron, y avanza ratón, estírase el cuello, coge el aldabón,"
         "da dos o tres golpes, preguntan: ¿quién es? -Yo, doña ratona, beso a usted los pies."),
 }
 
